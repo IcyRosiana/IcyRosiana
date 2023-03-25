@@ -1,6 +1,5 @@
 ![giphy (1)](https://user-images.githubusercontent.com/123532477/227728633-057d5221-d2d8-46c7-b714-60c967651e19.gif)
 
-========================================================================================
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Icy Rosiana
 ===================================================================================================================================
@@ -8,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Manager of Binary Battalion
 -----------------------------------
 
-* 🌍  I'm based in Philippines, Aurora Zamboanga del Sur - 7020
+* 🌍  I'm based in Philippines, Aurora Zamboanga del Sur - ZDSPGC Aurora-Campus
 * ✉️  You can contact me at [icy.rosiana@zdspgc.edu.ph](mailto:icy.rosiana@zdspgc.edu.ph)
 * 🚀  I'm currently working on [Stock Management System](http://https://github.com/IcyRosiana/Binary-Battalion.git)
 * 🧠  I'm learning Python, Basic Writing and Formatting Syntax
