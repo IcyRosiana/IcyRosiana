@@ -1,5 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-
+![ge](https://user-images.githubusercontent.com/123532477/228420014-860424a2-b434-469f-a6ee-556196caa782.gif)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Icy Rosiana
 ===================================================================================================================================
