@@ -1,12 +1,15 @@
 ![ge](https://user-images.githubusercontent.com/123532477/228420014-860424a2-b434-469f-a6ee-556196caa782.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Icy Rosiana
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm is Icy Rosiana
 ===================================================================================================================================
 
 Project Manager of Binary Battalion
 -----------------------------------
 
-* 🌍  I'm based in Philippines, Aurora Zamboanga del Sur - ZDSPGC Aurora-Campus
+![he-unscreen](https://user-images.githubusercontent.com/123532477/228426231-67c7ea3f-b6d7-4a25-8e0e-2b727677556d.gif)
+
+
+* 🌍  I'm based in Philippines, Aurora Zamboanga del Sur - ZDSPGC Aurora-Campus
 * ✉️  You can contact me at [icy.rosiana@zdspgc.edu.ph](mailto:icy.rosiana@zdspgc.edu.ph)
 * 🚀  I'm currently working on [Stock Management System](http://https://github.com/IcyRosiana/Binary-Battalion.git)
 * 🧠  I'm learning Python, Basic Writing and Formatting Syntax
